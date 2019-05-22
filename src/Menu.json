@@ -1,0 +1,8 @@
+{
+    "items": [
+        {
+            "trans": "rb28dett_settings::general.title",
+            "route": "rb28dett::settings.index"
+        }
+    ]
+}
